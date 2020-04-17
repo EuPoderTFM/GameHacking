@@ -24,7 +24,7 @@ Primeiramente, bem vindos a este artigo de como preparar seu ambiente, geralment
 
   ## Programação
 
-  É cara não tem como escapar de programar, as vezes aparece no discord uns retardados querendo tudo pronto, "manda um código ae pra aimbot do crossfire", isso é totalmente broxante, então aprenda a programar.
+  É cara não tem como escapar de programar, as vezes aparece no discord uns caras querendo tudo pronto, "manda um código ae pra aimbot do crossfire", isso é totalmente broxante, então aprenda a programar.
 
   Recomendo 2 cursos:
 
